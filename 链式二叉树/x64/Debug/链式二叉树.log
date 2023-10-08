@@ -1,0 +1,6 @@
+﻿  链式二叉树.cpp
+D:\数据结构与算法\链式二叉树\链式二叉树.cpp(334,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\数据结构与算法\链式二叉树\链式二叉树.cpp(333,1): message : 在编译 类 模板 成员函数“void Tree<char>::CreateBTreeAccordIP(char *,char *)”时
+D:\数据结构与算法\链式二叉树\链式二叉树.cpp(426,28): message : 查看对正在编译的函数 模板 实例化“void Tree<char>::CreateBTreeAccordIP(char *,char *)”的引用
+D:\数据结构与算法\链式二叉树\链式二叉树.cpp(422,13): message : 查看对正在编译的 类 模板 实例化“Tree<char>”的引用
+  链式二叉树.vcxproj -> D:\数据结构与算法\链式二叉树\x64\Debug\链式二叉树.exe
